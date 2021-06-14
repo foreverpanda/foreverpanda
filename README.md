@@ -15,7 +15,7 @@
 <a href="https://twitter.com/deependupandit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="deependupandit" height="30" width="40" /></a>
 <a href="https://instagram.com/x.foreverpanda.x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="x.foreverpanda.x" height="30" width="40" /></a>
   
- <a href="https://raw.githubusercontent.com/foreverpanda/foreverpanda/main/playgue.png" target="blank"><img align="center" src="https://tryhackme-badges.s3.amazonaws.com/playgue.png" alt="TryHackMe" height="30" width="40" /></a>
+ <a href="https://tryhackme.com/p/playgue" target="blank"><img align="center" src="https://raw.githubusercontent.com/foreverpanda/foreverpanda/main/playgue.png" alt="TryHackMe"  /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
