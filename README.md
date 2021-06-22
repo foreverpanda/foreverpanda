@@ -21,3 +21,36 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> </p>
 
+<h2 align="left">GOALS FOR 2021</h2>
+
+<b>1.) To reach top 100 in TRYHACKME Platform.
+2.) To reach ELITE HACKER rank in HACKTHEBOX.
+3.) Crack GSOC.
+4.) Master my C++ and BASH skills.
+5.) Start some bug hunting on websites!***
+</b>
+
+<h3 align="center">RAW Writeups Fot Tryhackme ! + TIPS</h3>
+
+Hello I have created this repo for keeping my notes here ! which i make while doing some of the room in tryhackme!
+I have master rank there but just to keep notes of everthing i just started a new account to make all my writeups to brush up my knowledge!
+
+I hope you will like this! Star it if these writeups helped you in any case! 
+
+
+<a href="https://tryhackme.com/p/foreverpanda">New account</a>
+
+<a href="https://tryhackme.com/p/playgue">Master rank</a>
+
+
+I will try to make it to **OMNI** level within 1 week with my new account! which i started yesterday (18 june,2021)
+
+DATE : 21JUN2021, 12:30AM
+
+**I m lvl 0x7 at this time now!**
+
+DATE : 22JUNE2021, 22:20
+
+**Reached HACKER[0X8] JUST NOW**
+
+I will try to make it to ***OMNI[0X9]*** in next 2 days! Hope so i will make through it!
