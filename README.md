@@ -65,7 +65,8 @@ DATE : 26JUNE2021, 23:36
 
 **Reached OMNI[0x9]**
  
- <img align="center" src="https://raw.githubusercontent.com/foreverpanda/images/main/foreverpanda.png?token=AUPEU2KWKN3MBAJ6XYTUYXLA255GI" alt="x.foreverpanda.x" height="30" width="40" /></a>
+ <img align="center" src="https://raw.githubusercontent.com/foreverpanda/images/main/foreverpanda.png?token=AUPEU2KWKN3MBAJ6XYTUYXLA255GI" alt="x.foreverpanda.x"  /></a>
  
+ So it took me 9days to finally reach omni level hope i will make it to wizard in next two days! i found very less difficulty to do the rooms i have done earlier! but i think that making notes will work some or another day! i havent made some of the writeups as they very easy of sometimes i forget to start! but i think i will carry on making notes until i get it to **TOP 100** in THM!
  
 OKAY FINALLY ! 
