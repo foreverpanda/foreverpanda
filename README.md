@@ -60,3 +60,9 @@ DATE : 24JUNE2021, 23:39
 
 FOR**OMNI[0x9]** we need 4k points ! Made 1.1k points in last 2 days! busy in college exams and some other works! 
 Hope i will make it to WIZARD soon!
+
+DATE : 26JUNE2021, 23:36
+
+**Reached OMNI[0x9]**
+ <img src="https://tryhackme-badges.s3.amazonaws.com/foreverpanda.png" alt="TryHackMe">
+OKAY FINALLY ! 
