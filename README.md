@@ -64,5 +64,8 @@ Hope i will make it to WIZARD soon!
 DATE : 26JUNE2021, 23:36
 
 **Reached OMNI[0x9]**
- <script src="https://tryhackme.com/badge/518497"></script>
+ 
+ <img align="center" src="https://raw.githubusercontent.com/foreverpanda/images/main/foreverpanda.png?token=AUPEU2KWKN3MBAJ6XYTUYXLA255GI" alt="x.foreverpanda.x" height="30" width="40" /></a>
+ 
+ 
 OKAY FINALLY ! 
