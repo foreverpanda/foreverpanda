@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Cyber security**
 
-- 📫 How to reach me **Discord : cd /ForeverPanda#1337**
+- 📫 How to reach me **Discord : cd /ForeverPanda#3998**
 
 
 <h3 align="left">Connect with me:</h3>
