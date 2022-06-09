@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Deependu</h1>
 <h3 align="center">A passionate Cybersecurity Guy who plays alot of CTF's</h3>
 
-- 🔭 I’m currently working on an E-Commerce project with my friends. https://www.disempire.com
+- 🔭 I’m currently working on my development and social media skills .
 
 - 🌱 I’m currently learning **C++ , Bash and cyber security**
 
