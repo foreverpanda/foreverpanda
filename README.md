@@ -60,7 +60,7 @@ with a deep interest in **Advanced Computing, Algorithms, and High Performance S
 ---
 
 ## 📂 Featured Repositories
-- 🔐 [**CTF Walkthroughs**](https://github.com/foreverpanda/walkthroughs) – My notes & writeups on CTF challenges and labs  
+- 🔐 [**CTF Walkthroughs**]([https://github.com/foreverpanda/walkthroughs](https://github.com/foreverpanda/tryhackme_writups)) – My notes & writeups on CTF challenges and labs  
 
 
 ---
