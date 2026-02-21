@@ -71,9 +71,7 @@ with a deep interest in **Advanced Computing, Algorithms, and High Performance S
   <img src="https://imgs.search.brave.com/osR8hNzn7rm3q_6jZ5bJVTmQ5SqkobQRXiESklc7oso/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naXRo/dWIuY29tL0JFUGIv/dHJ5aGFja21lL3Jh/dy9tYXN0ZXIvYXJ0/L3RyeWhhY2ttZS5q/cGVn" alt="TryHackMe" height="40"/>
 </a>
 &nbsp;&nbsp;
-<a href="https://youtube.com/@icodeincpp">
-  <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="YouTube" width="40"/>
-</a>
+
 &nbsp;&nbsp;
 <a href="https://discord.com/users/1310260329275723850">
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" alt="Discord" width="40"/>
